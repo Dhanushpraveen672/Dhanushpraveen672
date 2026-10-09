@@ -11,25 +11,8 @@
 
 ## 💻 About Me
 
-```java
-public class DhanushPraveenK {
-    private String name = "Dhanush Praveen K";
-    private String location = "Karur, Tamil Nadu, India";
-    private String degree = "B.Tech, Information Technology";
-    private String[] stack = {
-        "Java", "Python", "HTML", "CSS", "SQL", "JavaScript",
-        "Spring Boot", "React.js", "MongoDB", "MySQL"
-    };
-    private String[] currentlyLearning = {
-        "Advanced Java", "System Design", "AI-driven Applications"
-    };
-    private String funFact = "I turn placement stress into AI-powered prep tools.";
 
-    public String motto() {
-        return "Learn. Build. Ship.";
-    }
-}
-```
+
 
 ## 🛠️ Tech Stack
 
